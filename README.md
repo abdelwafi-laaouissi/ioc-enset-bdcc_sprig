@@ -37,3 +37,10 @@ Ce projet illustre les concepts d'**Injection des Dépendances (DI)** et d'**Inv
 ![injection_statique_SRV.png](Image/injection_statique_SRV.png)
 
 
+### Presentation Dynamique
+1. **Version base donnée**
+   ![injection_dynamique.png](Image/injection_dynamique.png)
+
+
+2. **Version web service**
+   ![injection_dynamique_srv.png](Image/injection_dynamique_srv.png)
