@@ -67,3 +67,35 @@ Ce projet illustre les concepts d'**Injection des Dépendances (DI)** et d'**Inv
 
 2. **Version web service**
    ![injection_spring_annotation_wvr.png](Image/injection_spring_annotation_wvr.png)
+
+
+### Diagramme de classe 
+
+![diagramme_classe.png](Image/diagramme_classe.png)
+
+## 📂 Structure du projet
+┣ 📂 src\
+┃ ┣ 📂 main \
+┃ ┃ ┣ 📂 java \
+┃ ┃ ┃ ┣ 📂 dao \
+┃ ┃ ┃ ┃ ┣ 📜 IDao.java   
+┃ ┃ ┃ ┃ ┣ 📜 DaoImpl.java  
+┃ ┃ ┃ ┣ 📂 metier \
+┃ ┃ ┃ ┃ ┣ 📜 IMetier.java  
+┃ ┃ ┃ ┃ ┣ 📜 MetierImpl.java    
+┃ ┃ ┃ ┣ 📂 presentation \
+┃ ┃ ┃ ┃ ┣ 📜 pres_dynamique.java  
+┃ ┃ ┃ ┃ ┣ 📜 pres_spring_annotations.java  
+┃ ┃ ┃ ┃ ┣ 📜 pres_spring_xml.java  
+┃ ┃ ┃ ┃ ┣ 📜 pres_statique.java  
+┃ ┃ ┣ 📂 resources \
+┃ ┃ ┃ ┣ 📜 config.xml   
+┣ 📜 pom.xml (si Maven)  
+┣ 📜 README.md
+
+
+## 🛠️ Technologies utilisées
+- **Java**
+- **Spring Framework**
+- **Maven / Gradle**
+- **Git / GitHub**

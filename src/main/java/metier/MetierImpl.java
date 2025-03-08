@@ -12,11 +12,11 @@ public class MetierImpl implements IMetier {
    // @Autowired
     private IDao dao;
 
-    public MetierImpl(@Qualifier("dao2") IDao dao ) {
+    public MetierImpl(IDao dao ) {
         this.dao = dao;
     }
 
-   // public MetierImpl() {    }
+// public MetierImpl() {    }
 
     @Override
     public double Calcul() {

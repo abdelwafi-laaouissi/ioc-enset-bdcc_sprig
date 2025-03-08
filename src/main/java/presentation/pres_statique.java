@@ -6,7 +6,7 @@ import metier.MetierImpl;
 
 public class pres_statique {
     public static void main(String[] args) {
-        DaoImplV2 dao = new DaoImplV2();
+        DaoImpl dao = new DaoImpl();
         MetierImpl metier = new MetierImpl(dao);
         //metier.setDao(dao);
         System.out.println("Res : "+metier.Calcul());
