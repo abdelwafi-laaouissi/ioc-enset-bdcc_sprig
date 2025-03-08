@@ -44,3 +44,15 @@ Ce projet illustre les concepts d'**Injection des Dépendances (DI)** et d'**Inv
 
 2. **Version web service**
    ![injection_dynamique_srv.png](Image/injection_dynamique_srv.png)
+
+
+
+
+
+### Presentation Spring XML
+1. **Version base donnée**
+   ![injection_spring_xml.png](Image/injection_spring_xml.png)
+
+
+2. **Version web service**
+   ![injection_spring_xml_wsv.png](Image/injection_spring_xml_wsv.png)

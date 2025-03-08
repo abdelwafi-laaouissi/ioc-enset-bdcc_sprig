@@ -4,11 +4,10 @@ import dao.IDao;
 import metier.IMetier;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.lang.reflect.Method;
 import java.util.Scanner;
 
-public class pre_dynamique {
+public class pres_dynamique {
     public static void main(String[] args) {
         try {
             Scanner scanner = new Scanner(new File("config.txt"));
