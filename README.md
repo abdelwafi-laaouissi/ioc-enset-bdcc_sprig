@@ -56,3 +56,14 @@ Ce projet illustre les concepts d'**Injection des Dépendances (DI)** et d'**Inv
 
 2. **Version web service**
    ![injection_spring_xml_wsv.png](Image/injection_spring_xml_wsv.png)
+
+
+
+
+### Presentation Spring Annotations
+1. **Version base donnée**
+   ![injection_spring_annotation.png](Image/injection_spring_annotation.png)
+
+
+2. **Version web service**
+   ![injection_spring_annotation_wvr.png](Image/injection_spring_annotation_wvr.png)
